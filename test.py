@@ -1,4 +1,4 @@
-ttest = "KKKanel"
+rrttest = "KKKanel"
 print(test)
 
 def test()
